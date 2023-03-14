@@ -1,5 +1,6 @@
 {
   "name": "todo-app",
+  "homepage": "https://dhrumit5512.github.io/A2-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
